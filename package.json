@@ -1,1 +1,11 @@
-
+{
+  "name": "node-s3-uploader-api",
+  "version": "1.0.0",
+  "description": "Simple API for uploading images to S3 buckets",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.800.0",
+    "express": "^4.17.1",
+    "dotenv": "^8.2.0"
+  }
+}
